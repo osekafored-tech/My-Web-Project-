@@ -1,6 +1,5 @@
 <html lang="en">
 <head>
-  theme: jekyll-theme-minimal.
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>PureAura Perfumes — Signature Scents for Every Mood</title>
